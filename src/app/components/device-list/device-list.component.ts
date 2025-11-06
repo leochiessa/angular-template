@@ -23,7 +23,7 @@ export class DeviceListComponent implements OnInit {
     
   }
 
-  delete(id: string) {
+  delete() {
     
   }
 
