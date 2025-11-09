@@ -9,21 +9,21 @@ export class DeviceService {
 
   private url = ''
 
-  constructor(private http: HttpClient) { }
+  constructor() { }
 
-  getAll(): Observable<any> {
+  getAll() {
     
   }
 
-  save(): Observable<any> {
+  save() {
     
   }
 
-  delete(): Observable<any> {
+  delete() {
     
   }
 
-  update(): Observable<any> {
+  update() {
     
   }
 
